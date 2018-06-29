@@ -1,4 +1,3 @@
-# Abalone data details
+# Pattern recognition of chaotic signals
 
-Step one: Data is downloaded from the UCI repository and available here
-Data is read as csv file and loaded 
+This study is a a current ongoing project where we try to classify nonlinear time series through various pattern recognition methods
